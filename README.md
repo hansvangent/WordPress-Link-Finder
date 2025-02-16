@@ -58,7 +58,7 @@ new FindBitlyLinks();
    - Bitly link
    - Edit button for quick access to the post
   
-##📌 BONUS
+## Not using WordPress? Use Screaming Frog
 
 If you’re not on WordPress you can also use Screaming Frog to find all your Bitly links on your site.
 
