@@ -57,6 +57,20 @@ new FindBitlyLinks();
    - Context where the link appears
    - Bitly link
    - Edit button for quick access to the post
+  
+##📌 BONUS
+
+If you’re not on WordPress you can also use Screaming Frog to find all your Bitly links on your site.
+
+In Screaming Frog, you can quickly find all instances of Bitly links on your website by following these steps:
+
+ 1. Crawl your website – Enter your domain and start the crawl.
+ 2. Use the Search function – Go to “Internal” → “Search” (Ctrl + F on Windows / Cmd + F on Mac).
+ 3. Enter the search term – Type bit.ly, bitly.com, or j.mp and select “Contains” to find all occurrences.
+ 4. Review the results – This will show all pages where these short URLs are present.
+ 5. Export the data – Use the “Export” button if you need to replace or update the links.
+
+Alternatively, you can use the “Custom Search” feature under Configuration → Custom → Search, add bit.ly, bitly.com, and j.mp as search terms, and rerun the crawl for a detailed extraction.
 
 ## Get Help
 
